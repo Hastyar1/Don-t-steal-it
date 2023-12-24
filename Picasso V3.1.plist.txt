@@ -1,0 +1,47 @@
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://archive.org/download/picasso-v-3-3.1-1703434467/Picasso%20v3_3.1_1703434467.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://github.com/Hastyar1/Don-t-steal-it/blob/882e0e6529c94f7edfe97dfbdb55a4bcf89793dd/Picasso.JPG</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://github.com/Hastyar1/Don-t-steal-it/blob/882e0e6529c94f7edfe97dfbdb55a4bcf89793dd/Picasso.JPG</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>net.sourceloc.Picasso</string>
+<key>bundle-version</key>
+<string>1.1.1</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>Hastyar1 free</string>
+<key>title</key>
+<string>Picasso V3.1</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
