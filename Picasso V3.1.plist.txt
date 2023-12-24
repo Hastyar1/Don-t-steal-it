@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/picasso-v-3-3.1-1703434467/Picasso%20v3_3.1_1703434467.ipa</string>
+<string>https://up-ipa.com/uploads/up-ipa.comPicasso-v3-3-1-1703434467.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
